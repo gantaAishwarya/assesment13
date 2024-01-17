@@ -1,0 +1,392 @@
+[
+  {
+    "id": 18,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662453649870480844.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-06 08:40:49",
+    "job_time_done": "2022-09-06 08:40:50",
+    "channel": null
+  },
+  {
+    "id": 19,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"ESTM-10\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-06 08:42:19",
+    "job_time_done": "2022-09-06 08:42:19",
+    "channel": null
+  },
+  {
+    "id": 22,
+    "priority": 4,
+    "code": "agent3",
+    "data": "{\"path\": \"/datashare/jobs/1662461964301539445.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-06 11:06:31",
+    "job_time_done": "2022-09-06 11:08:45",
+    "channel": null
+  },
+  {
+    "id": 23,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538528117507385.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:28",
+    "job_time_done": "2022-09-07 08:15:28",
+    "channel": null
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "code": "agent4",
+    "data": "{\"filename\": \"DST-LS-10X25-R-140-ES_D00434226\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:56",
+    "job_time_done": "2022-09-07 08:23:57",
+    "channel": null
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "code": "agent4",
+    "data": "{\"filename\": \"DST-LS-14X30-R-140-ES_D00434207\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:57",
+    "job_time_done": "2022-09-07 08:23:57",
+    "channel": null
+  },
+  {
+    "id": 28,
+    "priority": 6,
+    "code": "agent4",
+    "data": "{\"filename\": \"PTGSG-10X2-01-R-140-ES_D00434218\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:57",
+    "job_time_done": "2022-09-07 08:23:57",
+    "channel": null
+  },
+  {
+    "id": 30,
+    "priority": 6,
+    "code": "agent4",
+    "data": "{\"filename\": \"AWMQ-10_D00436693\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:57",
+    "job_time_done": "2022-09-07 08:23:57",
+    "channel": null
+  },
+  {
+    "id": 32,
+    "priority": 6,
+    "code": "agent4",
+    "data": "{\"filename\": \"NS-01-27 UNGEBOHRT_D00434189\", \"file_extension\": \"xlsx\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:57",
+    "job_time_done": "2022-09-07 08:23:57",
+    "channel": null
+  },
+  {
+    "id": 34,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"TS-04-12 UNGEBOHRT_D00434172\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:57",
+    "job_time_done": "2022-09-07 08:23:58",
+    "channel": null
+  },
+  {
+    "id": 36,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"WS-20 UNGEBOHRT_D00433766\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:58",
+    "job_time_done": "2022-09-07 08:23:58",
+    "channel": null
+  },
+  {
+    "id": 38,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"WSQ-10 UNGEBOHRT_D00434163\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:58",
+    "job_time_done": "2022-09-07 08:23:58",
+    "channel": null
+  },
+  {
+    "id": 40,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"EGZM-08-061\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:23:58",
+    "job_time_done": "2022-09-07 08:23:58",
+    "channel": null
+  },
+  {
+    "id": 55,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538534110826673.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:34",
+    "job_time_done": "2022-09-07 08:15:34",
+    "channel": null
+  },
+  {
+    "id": 59,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538534914771300.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:34",
+    "job_time_done": "2022-09-07 08:15:35",
+    "channel": null
+  },
+  {
+    "id": 61,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538535278667323.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:35",
+    "job_time_done": "2022-09-07 08:15:35",
+    "channel": null
+  },
+  {
+    "id": 63,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538535593018308.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:35",
+    "job_time_done": "2022-09-07 08:15:35",
+    "channel": "c3"
+  },
+  {
+    "id": 65,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538536015091439.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:36",
+    "job_time_done": "2022-09-07 08:15:36",
+    "channel": "c3"
+  },
+  {
+    "id": 67,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538536434751796.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:36",
+    "job_time_done": "2022-09-07 08:15:36",
+    "channel": null
+  },
+  {
+    "id": 69,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538536864451823.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:36",
+    "job_time_done": "2022-09-07 08:15:37",
+    "channel": null
+  },
+  {
+    "id": 71,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538537551791150.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:37",
+    "job_time_done": "2022-09-07 08:15:37",
+    "channel": null
+  },
+  {
+    "id": 73,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538538098478292.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:38",
+    "job_time_done": "2022-09-07 08:15:38",
+    "channel": "c3"
+  },
+  {
+    "id": 75,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538538512756180.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:38",
+    "job_time_done": "2022-09-07 08:15:38",
+    "channel": "c1"
+  },
+  {
+    "id": 76,
+    "priority": 4,
+    "code": "agent4",
+    "data": "{\"filename\": \"NW-01-27 P_D00433963\", \"file_extension\": \"pdfdoc\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:24:02",
+    "job_time_done": "2022-09-07 08:24:02",
+    "channel": null
+  },
+  {
+    "id": 77,
+    "priority": null,
+    "code": "agent2",
+    "data": "{\"path\": \"/datashare/jobs/1662538538813922592.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:15:38",
+    "job_time_done": "2022-09-07 08:15:39",
+    "channel": "c7"
+  },
+  {
+    "id": 84,
+    "priority": 4,
+    "code": "agent1",
+    "data": "{\"files\": [11]}",
+    "job_state": null,
+    "job_time_started": "2022-09-08 22:25:16",
+    "job_time_done": "2022-09-08 22:26:21",
+    "channel": "c2"
+  },
+  {
+    "id": 85,
+    "priority": 3,
+    "code": "agent1",
+    "data": "{\"files\": [12]}",
+    "job_state": null,
+    "job_time_started": "2022-09-08 22:26:22",
+    "job_time_done": "2022-09-08 22:27:59",
+    "channel": "c3"
+  },
+  {
+    "id": 86,
+    "priority": 1,
+    "code": "agent1",
+    "data": "{\"files\": [13]}",
+    "job_state": null,
+    "job_time_started": "2022-09-08 22:28:00",
+    "job_time_done": "2022-09-08 22:29:02",
+    "channel": null
+  },
+  {
+    "id": 95,
+    "priority": 4,
+    "code": "agent1",
+    "data": "{\"files\": [22]}",
+    "job_state": null,
+    "job_time_started": "2022-09-08 22:33:06",
+    "job_time_done": "2022-09-08 22:34:00",
+    "channel": null
+  },
+  {
+    "id": 96,
+    "priority": 2,
+    "code": "agent1",
+    "data": "{\"files\": [23]}",
+    "job_state": null,
+    "job_time_started": "2022-09-08 22:34:02",
+    "job_time_done": "2022-09-08 22:34:55",
+    "channel": null
+  },
+  {
+    "id": 97,
+    "priority": 1,
+    "code": "agent1",
+    "data": "{\"files\": [24]}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:41:08",
+    "job_time_done": "2022-09-07 08:42:04",
+    "channel": "c2"
+  },
+  {
+    "id": 98,
+    "priority": 3,
+    "code": "agent1",
+    "data": "{\"files\": [25]}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:42:05",
+    "job_time_done": "2022-09-07 08:42:59",
+    "channel": null
+  },
+  {
+    "id": 99,
+    "priority": 2,
+    "code": "agent1",
+    "data": "{\"files\": [26]}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 08:43:00",
+    "job_time_done": "2022-09-07 08:43:52",
+    "channel": "c1"
+  },
+  {
+    "id": 112,
+    "priority": 5,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539407420602506.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 09:48:32",
+    "job_time_done": "2022-09-07 11:19:24",
+    "channel": "c1"
+  },
+  {
+    "id": 113,
+    "priority": 4,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539461206282663.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 09:48:48",
+    "job_time_done": "2022-09-07 10:21:25",
+    "channel": "c4"
+  },
+  {
+    "id": 114,
+    "priority": 5,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539520267389867.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 09:57:44",
+    "job_time_done": "2022-09-07 11:45:47",
+    "channel": "c4"
+  },
+  {
+    "id": 115,
+    "priority": 4,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539576684542812.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 10:21:32",
+    "job_time_done": "2022-09-07 11:56:19",
+    "channel": "c4"
+  },
+  {
+    "id": 116,
+    "priority": 3,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539632590198361.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 10:46:19",
+    "job_time_done": "2022-09-07 12:47:52",
+    "channel": "c4"
+  },
+  {
+    "id": 117,
+    "priority": 4,
+    "code": "agent5",
+    "data": "{\"path\": \"/datashare/jobs/1662539687780348244.json\"}",
+    "job_state": null,
+    "job_time_started": "2022-09-07 11:19:45",
+    "job_time_done": "2022-09-07 13:37:06",
+    "channel": "c4"
+  }
+]
