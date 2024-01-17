@@ -11,8 +11,7 @@ create table if not exists jobs
     channel             varchar(50)  null  -- used to assure a specific execution order. For two jobs with the same `channel`the one with lower priority value and/or lower ID should be executed first
 );
 
-create index jobs_code_job_state_priority_index
-    on jobs (code, job_state, priority);
+
 
 
 
@@ -30,3 +29,7 @@ create table if not exists job_requirements
 
 create index job_id
     on job_requirements (job_id);
+    
+create index jobs_code_job_state_priority_index
+    on jobs (code, job_state, priority);
+    
