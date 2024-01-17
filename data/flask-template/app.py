@@ -3,6 +3,9 @@ import uuid
 from sqlalchemy.orm import sessionmaker
 from flask import Flask, request, jsonify
 from database import get_database
+from flask_restful import Api
+from src.list_available_jobs import ListJobs
+from src.pick_for_execution import PickJob
 app = Flask(__name__)
 
 
@@ -18,8 +21,6 @@ def execute_sql_file(file_path, session):
         
     session.commit()
 
-
-
 # this is executed once at startup
 with app.app_context():
     db_engine = get_database()
@@ -32,7 +33,10 @@ with app.app_context():
 
 
 # TODO: add API Endpoints
+api = Api(app)
+api.add_resource(ListJobs,'/api/listJobs')
+api.add_resource(PickJob,'/api/pickJob')
 
-
+#TODO: add anothe resource to read job done status and update job done time
 if __name__ == '__main__':
     app.run()

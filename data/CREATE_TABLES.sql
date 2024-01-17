@@ -11,10 +11,6 @@ create table if not exists jobs
     channel             varchar(50)  null  -- used to assure a specific execution order. For two jobs with the same `channel`the one with lower priority value and/or lower ID should be executed first
 );
 
-
-
-
-
 -- This is a generic table to specify arbitrary requirements for any execution agent
 create table if not exists job_requirements
 (
